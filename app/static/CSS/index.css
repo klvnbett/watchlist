@@ -1,0 +1,23 @@
+    body {
+        background-color: cadetblue;
+    }
+    
+    h3 {
+        color: brown;
+        background-color: burlywood;
+        align-items: center;
+        margin: auto;
+    }
+    
+    ul {
+        list-style-type: none;
+    }
+    
+    .movie-card a {
+        color: green;
+    }
+    
+    .movie-card a:hover {
+        padding-bottom: 20px;
+        border-bottom: 1px solid green;
+    }

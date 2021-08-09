@@ -1,0 +1,2 @@
+MOVIE_API_KEY ='9d8e089edea185c8ab86309046ece168'
+SECRET_KEY = 'kenya'
